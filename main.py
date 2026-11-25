@@ -1,8 +1,7 @@
 import os
 
 LINE = (
-    "Out of office. My AI agent is covering my inbox, "
-    "so replies will be instant, confident, and legally non-binding."
+    "Out of office until Monday. My agent has my inbox and my full confidence, which is exactly what it will use to invent your deadline."
 )
 
 output_dir = os.environ.get("OUTPUT_DIR", "/output")
